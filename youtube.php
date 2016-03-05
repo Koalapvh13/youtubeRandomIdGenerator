@@ -1,4 +1,4 @@
-<?php if (!defined("youtube")) die("gtfo");
+<?php if (!defined("youtube")) die;
 
 class youtube {
   private $complete_rand_string = "";
